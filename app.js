@@ -141,7 +141,7 @@ fish.push(xRayTetras)
 let mammals = []
 mammals.push(alpacas, badgers, cheetahs, donkeys, elephants, foxes, giraffes, horses, jaguars, kangaroos, lemurs, meerkats, opossums, raccoons, tigers, walruses, yaks, zebras)
 
-let reptile = []
+let reptiles = []
 reptile.push(newts)
 
 alpacas.alice.explainYourself()
@@ -149,3 +149,6 @@ alpacas.alice.explainYourself()
 raccoons.raph.explainYourself()
 
 console.log(mammals)
+console.log(birds)
+console.log(fish)
+console.log(reptiles)
